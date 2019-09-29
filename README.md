@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This project is a Pytorch implentation of TD3. The paper can be found here [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477).
+This project is a Pytorch implentation of TD3. The paper can be found here [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477) by Scott Fujimoto, Herke van Hoof and David Meger.
 
 The implementations for each environment is written in corresponding named jupyter notebook.
 
